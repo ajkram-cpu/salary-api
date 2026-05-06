@@ -1,4 +1,4 @@
-# Salary Prediction API 
+# Salary Prediction API 🤖
 
 A machine learning API built with Flask that predicts salary estimates based on user inputs such as education, experience, company size, and job title.
 
