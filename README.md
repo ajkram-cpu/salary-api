@@ -16,9 +16,7 @@ The API accepts JSON input and returns a predicted salary value using a trained 
 
 - Python
 - Flask
-- Joblib
-- Machine Learning
-- Docker
+- VS code
 - Azure
 
 ---
